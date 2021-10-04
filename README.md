@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ramseyyyyy
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in becoming a programmer
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on any projects 
+- 📫 How to reach me @mr.edwardcabrera22@gmail.com
 
 <!---
 Ramseyyyyy/Ramseyyyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
